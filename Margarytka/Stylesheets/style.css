@@ -1,0 +1,30 @@
+body {
+font-family: sans-serif;
+font-style: Italic;
+color: green;
+letter-spacing: 0.1em;
+font-size: 100%;
+}
+h1 {
+font-family: sans-serif;
+font-style: Italic;
+color: black;
+letter-spacing: 0.1em;
+font-size: 150%;
+}
+p {
+font-family: sans-serif;
+font-style: Italic;
+color: black;
+letter-spacing: 0.1em;
+font-size: 100%;
+}
+.status{
+color: white;
+}
+.button-container {
+
+  position: absolute;
+  bottom: 10;
+  left: 47%
+}
